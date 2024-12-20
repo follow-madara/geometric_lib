@@ -28,4 +28,3 @@ def perimeter(a):
     perimeter(4)  # Возвращает 16
     """
     return 4 * a
-    

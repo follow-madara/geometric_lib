@@ -29,4 +29,4 @@ def perimeter(a, b, c):
     perimeter(3, 4, 5)  # Возвращает 12
     """
     return a + b + c
-    
+ 
